@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_primary_dark</item>
+        <item name="colorAccent">@color/accent_color</item>
+        <item name="windowActionBar">false</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+
+    </style>
+    <style name="Theme.MyDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:textColor">@color/color_primary</item>
+        <item name="colorAccent">@color/accent_color</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+
+
+    </style>
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/whats_color</item>
+        <item name="colorPrimaryDark">@color/whats_color_dark</item>
+        <item name="colorAccent">@color/whats_color_dark</item>
+        <item name="windowActionBar">false</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+
+    </style>
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/whats_color2</item>
+        <item name="colorPrimaryDark">@color/whats_color_dark2</item>
+        <item name="colorAccent">@color/whats_color_dark2</item>
+        <item name="windowActionBar">false</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+
+    </style>
+    <style name="AppTheme3" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/whats_color3</item>
+        <item name="colorPrimaryDark">@color/whats_color_dark3</item>
+        <item name="colorAccent">@color/whats_color_dark3</item>
+        <item name="windowActionBar">false</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+
+    </style>
+    <style name="AppTheme4" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/whats_color4</item>
+        <item name="colorPrimaryDark">@color/whats_color_dark4</item>
+        <item name="colorAccent">@color/whats_color_dark4</item>
+        <item name="windowActionBar">false</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+
+    </style>
+    <style name="AppTheme5" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/whats_color5</item>
+        <item name="colorPrimaryDark">@color/whats_color_dark5</item>
+        <item name="colorAccent">@color/whats_color_dark5</item>
+        <item name="windowActionBar">false</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+
+    </style>
+    <style name="AppTheme6" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/whats_color6</item>
+        <item name="colorPrimaryDark">@color/whats_color_dark6</item>
+        <item name="colorAccent">@color/whats_color_dark</item>
+        <item name="windowActionBar">false</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+
+
+    </style>
+</resources>
+

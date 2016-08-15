@@ -1,0 +1,167 @@
+<RelativeLayout
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    >
+    <android.support.design.widget.CoordinatorLayout
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/main_content"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+
+        <android.support.design.widget.AppBarLayout
+            android:id="@+id/MyAppbar"
+            android:layout_width="match_parent"
+            android:layout_height="256dp"
+
+            android:fitsSystemWindows="true">
+
+            <android.support.design.widget.CollapsingToolbarLayout
+                android:id="@+id/collapse_toolbar"
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent"
+                app:layout_scrollFlags="scroll|exitUntilCollapsed"
+                app:contentScrim="@color/whats_color"
+                android:fitsSystemWindows="true">
+
+                <ImageView
+                    android:id="@+id/bgheader"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:background="@drawable/dis"
+                    android:fitsSystemWindows="true"
+                    app:layout_scrollFlags="scroll|enterAlways|enterAlwaysCollapsed"
+                    app:layout_collapseMode="pin" />
+
+                <android.support.v7.widget.Toolbar
+                    android:id="@+id/MyToolbar"
+                    android:layout_width="match_parent"
+
+
+                    android:layout_height="?attr/actionBarSize"
+                    android:elevation="5dp"
+                    app:layout_collapseMode="pin" />
+
+            </android.support.design.widget.CollapsingToolbarLayout>
+
+        </android.support.design.widget.AppBarLayout>
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+
+            android:clipToPadding="false"
+
+
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:paddingBottom="50dp"
+                    android:paddingTop="24dp"
+                    android:id="@+id/layout"
+                    android:layout_height="wrap_content"
+                    >
+
+
+
+                    <android.support.v7.widget.CardView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+
+                        card_view:cardUseCompatPadding="true"
+                        card_view:cardCornerRadius="3dp"
+
+                        android:layout_gravity="center"
+                        card_view:cardElevation="5dp"
+
+                        android:id="@+id/card_view">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+
+                                android:textSize="20sp"
+                                android:textColor="#5d5c5c"
+                                android:textStyle="bold"
+
+                                android:id="@+id/main_name"
+                                android:layout_marginLeft="5dp"
+                                android:text="Disadvantages Of Rooting:"
+                                style="@android:style/Animation.Translucent" />
+                            <View
+                                android:layout_width="fill_parent"
+                                android:id="@+id/line1"
+                                android:layout_below="@+id/main_name"
+                                android:background="@android:color/darker_gray"
+                                android:layout_height="1dp"/>
+                            <ImageView
+                                android:id="@+id/bgheader2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:scaleType="centerCrop"
+                                android:layout_centerHorizontal="true"
+                                android:layout_below="@+id/line1"
+                                android:src="@drawable/dis1"
+                                />
+                            <TextView
+                                android:paddingLeft="10dp"
+
+                                android:paddingRight="10dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:id="@+id/main_description"
+                                android:layout_below="@+id/bgheader2"
+
+                                android:text="@string/dis"                    android:textSize="18sp"
+android:paddingBottom="10dp"
+                                android:textColor="#7f7e7e" />
+
+
+
+</RelativeLayout>
+
+
+                    </android.support.v7.widget.CardView>
+
+                </LinearLayout>
+
+
+
+        </android.support.v4.widget.NestedScrollView>
+
+
+    </android.support.design.widget.CoordinatorLayout>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>
+
+

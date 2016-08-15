@@ -1,0 +1,236 @@
+<resources xmlns:http="http://schemas.android.com/tools">
+    <string name="app_name">Whats Rooting</string>
+    <string name="action_settings">About</string>
+    <string name="interstitial_full_screen">ca-app-pub-3701378466050774/3192401645</string>
+    <string name="action_refresh">AnyQuestions</string>
+    <string name="action_new">Developer</string>
+    <string name="logo_desc">App logo</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3701378466050774/6071295241
+</string>
+    <string name="what">Rooting means you have root access to your device—that is, it can run the sudo command, and has enhanced privileges allowing it to run apps like Wireless Tether or SetCPU. You can root either by installing the Superuser application or by flashing a custom ROM that includes root access.\n *Basically it will allow you to modify system files.So,that you can change appearance,functionality and you can also tweak your performance</string>
+    <string name="what2">*Sometimes rooting your android will become a bit tricky and you may find hard to find the rooting process for your android.</string>
+    <string name="what3">These are the basic terms you need to know:\n <b>Exploits:</b>It is nothing but a set of instructions that will trick the android to give us Root permissions.In Short it finds the vulnerability and attacks on that area.\n <b>Rom:</b>A ROM is a modified version of Android. It may contain extra features, a different look, speed enhancements, or even a version of Android that hasnt been released for your phone yet.\nRoms are of two types: \n <b>1.StockRom.</b> \n <b>2.CustomRom.</b>\n CutomRoms will be discussed in the CustomRoms Section.Coming To <b>StockRoms</b> ,“Stock” refers to a few different things, depending on the context. When we refer to “Stock Android,” we mean the Google-built version you’d find on Nexus devices, with no extra UI chances like HTC Sense or Samsung TouchWiz.it is nothing but the Android os which comes with your mobile by factory default.Thats It Nothing FANCY.</string>
+    <string name="what4">\n<b>Superuser or SuperSu:</b>\n These are the most important piece of applications.Yes you heard it right these are applications used to prompt root access to you and other softwares which require root to do magic.The word Root doesnt exists without these applications.\n*Two things to remember:\n1.Without this application their is no use of rooting without these applications.Mostly if you are rooting your mobile from a process in internet that process definitely include these and ofcourse these are available in playstore too.We\'ll talk about more in the HowTo Root Section.\n2.These are always automatically installed after rooting.So,need to install separately but if you uninstall them you can get them from playstore.</string>
+    <string name="what5"><u><b>Note:</b></u>SuperUser and SuperSu doesn\'t root your phone.Then HowToRoot??For this Head Over to How to Root section. </string>
+    <string name="how">I think You Successfully learned WhatsRooting.So,let\'s start..Before starting you may need to see Benfits and Disadvantages sections.So,that you\'ll be able to get to a conclusion whether to Root or not To Root.If you need some advice from me: Then if you are a pro-user and have much time to mess with your phone to unlock the capabilities then root your phone but if you are a Business person and don\'t have much time to mess with your phone then don\'t root.</string>
+    <string name="how2">\nThe Process of rooting differs from phone to phone and even model to model.So,I am not going discuss every model here but I am going to cover maximum number of models by throughing a bunch of softwares.\n*In this list i have included two different categories:\n1.Rooting Without PC(Using Apps:These are not available in playstore).\n2.Rooting With PC(Every Android phone doesn\'t supports rooting with an App as some of the exploits might not work.So,we have to force them from PC).  </string>
+    <string name="how3">\nList of Applications With download links:\n
+    \n<b>1. Vroot Software:</b>
+\nThis is the best software for rooting any android phone, judging from the wide range of coverage and deep support for older operating system, I will lightly advice you try it first before the other ones in this list.
+Vroot software as a dedicated tool for rooting/unrooting Android phone or devices can root almost all android devices running on the 2.2 (Froyo), 2.3 (Gingerbread), 4.0 (Ice Cream Sandwich),  4.2 (Jelly Bean) and newer Operating Systems (OS).
+
+\n<u>Download link</u>: http://vrootdownload.info/ or http://www.mgyun.com/en/getvroot
+
+\n<b>2. kingoapp Root Software:</b>
+
+\nkingoapp root software solution is just as effective as Vroot, although I have recorded more success with the former, I still rate it as highly as any other all_in_one root solution for android devices.
+
+kingoapp is a big player amongst computer software to root and unroot any android phone. It works seamlessly with all major brands of Android phones, tablets and other devices.
+
+\n<u>Download Link</u>: http://www.kingoapp.com/android-root/download.htm
+
+\n<b>3. SRSRoot Software:</b>
+
+\nSRSRoot software solution was of my favorite for rooting android devices before Vroot came to the scene. Although I haven’t used it for a while now, I can still recommend it for persons that didn’t have success with the previous two.
+
+It has been in the space for long and have garnered many a-positive review from beta testers and regular users of this awesome rooting tool.
+
+\n<u>Download Link</u>:   http://www.srsroot.com/
+
+\n<b>4.Framaroot (apk) App (Roots without a PC):</b>
+
+\nFramaroot is  the best app so far for rooting and unrooting android without a computer.  It has support for even the latest android OS.
+
+Rooting and unrooting with Framaroot is as easy as installing the app ==>launching ==> and choosing from the list of available exploits.
+
+Wide range of success have been recorded already with this little wonder-app; even newer devices such as Samsung Galaxy, Tecno R7, Nokia XL android, Huawei Ascend and several others has been rooted with the Framaroot apk app.
+
+For all tested devices and the exploits used, refer to http://framaroot.net/devices.html. Note also that Tecno, Gionee and most MTK based phones will normally use the Barahir exploit.
+
+\n<u>Download Link</u>: http://framaroot.net/
+
+\n<b>5. KingRoot [Roots With or Without a Computer]:</b>
+
+\nKingRoot is as potent as iRoot and KingoRoot apps. The software is light-weighted and worked flawlessly on some selected models of MTK devices we used for testing out their performance and reliability.
+
+Their latest version supports wide range of devices (as opined by some of our other editors) including Samsung, HTC, Motoroloa and Sony Xperia droid devices. We hope to keep testing this app for a possible stand-alone review as soon as we can.
+
+To root with KingRoot software or app, all you need do is ==> <u>visit</u>: http://kingroot.net with your smartphone or computer ==> hit the corresponding download button from the download options and ==> complete the rooting process from the GUI of the app. Install the root checker app to confirm that your device is now completely rooted.
+
+The latest version of KingRoot tool (version 4.8.0) has gained support for almost all popular Android devices running on the 5.1 Lollipop operating System (OS).
+
+
+
+\n<b>6. Unlock Root Software:</b>
+
+\nI had success with this software in the past but can’t vouch for it now since it isn’t fully available for free any longer. You should be thinking of it as an alternative only when the Vroot and/or  kingoapp root software solutions fails to root your device.
+
+\n<u>Download Link</u>: http://www.unlockroot.com/download.html
+
+\n<b>7. Root Master (apk) App:</b>
+
+\nRoot Master will root your phone or devices without the need of a computer, you should think of it an alternative only where Framaroot fails.
+
+\n<u>Download Link</u>: https://www.google.com/?gws_rd=ssl#q=Root+Master+latest+version+download+
+
+\n<b>8. z4root (apk) App:</b>
+
+\nz4root is one of the oldest apps for rooting android devices without the need for a PC. It has support for wide range of devices and can root older phones as well.
+
+\n<u>Download link</u>: https://www.google.com/?gws_rd=ssl#q=z4root+latest+version+download+
+
+\n<b>9. Universal Androot (apk) App:</b>
+
+\nUniversal Androot is also very popular among apps that can root several android devices without the need of a computer.
+
+\n<u>Download Link</u>: https://www.google.com/?gws_rd=ssl#q=Universal+Androot+latest+version+download+
+
+\n<b>10. Easy rooting toolkit (apk) App:</b>
+
+\nEasy rooting toolkit; an app developed by DooMLoRD can root most android phones without a PC.
+
+\n<u>Download Link</u>: http://forum.xda-developers.com/showthread.php?t=1321582
+</string>
+    <string name="how4">\n*As i provided the links too.Definitely read the compatibility list and then try rooting with that software.\n\nNo software worked?? then continue reading..Okay you may Question me why the hell  my mobile is not supported or rooted from the above methods??The thing is that some phones have bootloader locked.I\'ll explain about bootloader after sometime but first let\'s check your bootloader status you can do that by doing this\n1.Dial *#*#7378423#*#* . \n2.Then go to -> "Service Info" -> "Configuration". \nIf there is:
+Bootloader unlock allowed -> Yes (this means that your Bootloader is Locked).
+            \nBootloader Unlocked -> Yes (this means that your bootloader is unlocked).\n Okay lets start by learning what is bootloader:\n<b>WHAT IS A BOOTLOADER?</b>
+\nThe bootloader performs basic hardware initialization, verifies the integrity of the operating system, starts the operating system, and provides a method to update device software. This validation is important to verify that the software loaded on the device will not damage sensitive components (radios, processors, etc.) or violate regulatory or carrier requirements. Google provides a base bootloader as part of the Android operating system, and most device manufacturers optimize this for their specific devices.\n YOU have to unlock your bootloader to gain root access.If you don\'t want to search in internet  about rooting your android then just click the Question Mark on top of the app and send me your model number.</string>
+    <string name="how5"><b>*Note:</b>Sometimes the phones which don\'t have bootloader locked also don\'t gain root access from above softwares because it has a different pattern for rooting your android.So,do a quick search or submit your model number</string>
+    <string name="ben">These are Top 10 Reasons:\n<b>10. Unlock Hidden Features and Install "Incompatible" Apps:</b>
+\nSometimes, even Android isn\'t open enough to give you some of the features you want. Either an app is blocked by carriers, hacks into Androids system files, or otherwise isnt available. Luckily, rooting can help with that: you can install carrier-blocked apps, get features from the latest version of Android, make incompatible apps compatible, power up your hardware, get features like Beats Audio from other phones, or emulate exclusive features like those on the Moto X. Whatever you want, rooting gives you the power to do a lot more.\n<b>9.Automate Everything:</b>
+\nYou\ve probably heard of Tasker, the awesome app that automates just about anything on your phone. You don\'t need to root your phone to use it, but if you\'re rooted, it can do a whole lot more. Certain tasks, like toggling 3G, GPS, changing CPU speed, turning the screen on, and others require root access. So, if you want to get the full benefit of an app like Tasker, youll definitely want to root your phone.
+\n<b>8. Boost Your Phones Speed and Battery Life:</b>
+\nYou can do a lot of things to speed up your phone and boost its battery life without rooting, but with root—as always—you have even more power. For example, with an app like SetCPU you can overclock your phone for better performance, or underclock it for better battery life. You can also use an app like Greenify to automatically hibernate apps you arent using—perfect for those apps that always want to run in the background when you\'re not looking.
+    \n<b>7. Block Ads in Any App:</b>
+\nLook, we of all people understand the need for occasional ads—its how we make money. But ads can also get in the way and use up data. If you want to block ads in certain apps or on certain devices, rooting is by far the best way to do so. AdFree, AdBlock Plus, and Ad Away are all great options. Of course, if you aren\'t rooted, going into airplane mode works in a pinch too.
+\n<b>6. Back Up Your Phone for Seamless Transitions:</b>
+\nWhen you move to a new Android device—or restore your device to stock for any reason—you can make your life a lot easier by backing up your apps and settings first. That way, you can get your entire setup back in just a few taps. If you arent rooted, you can back up a few things like apps and data, but you wont necessarily be able to backup system apps and their data, or automate the entire process as well as Titanium Backup can.
+\n<b>5. Remove Preinstalled Crapware:</b>
+\nTitanium Backup is good for more than just backups, too. It can also uninstall that annoying, battery-draining, space-wasting crapware that comes preinstalled on so many phones these days—and, sadly, this feature is root-only. Freeze them first to make sure your phone operates normally without them, then delete them completely to free up that space. Youll be glad you did.
+\n<b>4. Tweak the Dark Corners of Android:</b>
+\nIf youre the kind of person that likes to fiddle with every little feature—both on the surface and under the hood—rooting is for you. Whether you want to customize your keyboard layout with something like Keyboard Manager or give yourself faster scrolling, improved multitasking, and extra themes with Pimp My ROM, rooting gives you the power to tweak just about any corner you can think of. If you want to do it, chances are someone over on a forum like XDA has created a mini-app or tweak that will help.
+\n<b>3. Flash a Custom Kernel:</b>
+\nSome of Androids most under-the-hood tweaks require a custom kernel, which you can only flash with a rooted device. The kernel is responsible for helping your apps communicate with the hardware of your phone, which means a custom kernel can give you better performance, battery life, and even extra features like Wi-Fi tethering (on unsupported phones), faster battery charging, and lots more. You can flash kernels manually or simplify the process with something like Kernel Manager.
+\nOkay, <u>What is A Kernel</u>\nA kernel is the component of your operating system that manages communications between your software and hardware. There are a lot of custom kernels out there for most phones, many of which can speed up your phone and increase your battery life, among other things. Be careful with kernels, though, as a bad one can cause serious problems with your phone and possibly even brick it.\n<u>What is Bricking?</u>\nTo brick your phone is to break it during flashing or other acts. There is always a small risk with flashing, and if your phone becomes unable to function—that is, it basically becomes a brick—you’ve bricked your phone. The risk is very small, however, and more often than not people say “brick” when they really mean “it turns on but doesn’t boot properly,” which is a very fixable problem.
+\n<b>2. Flash a Custom ROM:</b>
+\nOkay, so you probably already know about this one—but its one of the best benefits of rooting. A custom ROM is basically a custom version of Android, and it truly changes how you use your phone. Some merely bring a stock version of Android to non-stock phones, or later versions of Android to phones that dont have it yet. Some add a few handy features, some add lots of really unique features, and some change your operating system from head to toe. No matter what phone you have—even if its a Nexus—we highly recommend checking out the custom ROMs out there. You wont be disappointed.\n<u>Note:</u> As some of you have noted, you dont actually need root access to flash a custom ROM—though you will need to unlock your bootloader (a process that sometimes comes bundled with root access). Still, it requires freeing your device from manufacturer lockdowns, so I\'ve kept it in the list despite this technicality!
+\nRead about this in CustomRom Section.
+\n<b>1. Truly Own Your Device:</b>
+\nIn the end, all of this boils down to one thing: you own your device, and you should be able to do with it as you please. Certain manufacturers and carriers try to keep that from happening, but with root access, you truly own your device and open yourself up to all the possibilities other parties try to block. Sure, theres some risk involved, and we dont usually recommend rooting other peoples phones, but in the end, you cant put a price on true openness and control.
+    </string>
+    <string name="ben2">Definitely Read Disadvantages too..in the Disadvantages section</string>
+
+    <string name="dis">\nThere are not much disadvantages but these disadvantages has definitely must take into considerstion:\n<b>1.Voids Warranty.</b>\n<b>2.It may Brick Your Mobile(It is Explained in Benefits section When talking about custom kernels).</b>\nNow coming to warranty topic:Phone warranty will definitely voided but most of the service centers in remote areas don\'t know what is root.Maybe you can you use warranty services even after root but not at all guaranteed.That\'s it for the disadvantages. </string>
+
+
+    <string name="flash">\nFlashing essentially means installing something on your device, whether it be a ROM, a kernel, or a recovery (see below) that comes in the form of a ZIP file. Sometimes the rooting process requires flashing a ZIP file, sometimes it doesn’t.\n<b>Recovery:</b>\nYour recovery is the software on your phone that lets you make backups, flash ROMs, and perform other system-level tasks. The default recovery on your phone can’t do much, but you can flash a custom recovery—like ClockworkMod or TWRP—after you’ve unlocked your bootloader that will give you much more control over your device. This is often an integral part of the rooting process.\n So, you have learned what it flashing and recovery.Let me cover some of the words that will help you.</string>
+    <string name="flash2">\n<b>Radio:</b>\n Radios are part of your phone’s firmware. Your radio controls your cellular data, GPS, Wi-Fi, and other things like that. You can sometimes find custom radios for your phone that you can flash yourself, but beware as sometimes these can cause problems.
+   \n<b> Nandroid:\n</b> From most third-party recovery modules, you can make backups of your phone called nandroid backups. It’s essentially a system image of your phone: Everything exactly how it is right now. That way, if you flash something that breaks your phone, you can just flash back to your most recent nandroid backup to return everything to normal. This is different from using an app like Titanium Backup that just backs up apps and/or settings—nandroid backups backup the entire system as one image.
+    \n*Titanium backups are best when switching between ROMs or phones.\n<b>ADB:</b>\nADB stands for Android Debug Bridge, and it’s a command line tool for your computer that can communicate with an Android device you’ve connected to it. It’s part of the Android Software Developers Kit (SDK). Many of the root tools you’ll find use ADB, whether you’re typing the commands yourself or not. Unless the instructions call for installing the SDK and running ADB commands, you won’t need to mess with it—you’ll just need to know that it’s what most of the tools use to root your phone.
+    \n<b>S-OFF:</b>\n HTC phones use a feature called Signature Verification in HBOOT, their bootloader. By default, your phone has S-ON, which means it blocks you from flashing radio images—the code that manages your data, Wi-Fi, and GPS connections. Switching your phone to S-OFF lets you flash new radios. Rooting doesn’t require S-OFF, but many rooting tools will give you S-OFF in addition to root access, which is nice.
+RUU, SBF, and OPS: ROM Upgrade Utilities (for HTC phones), System Boot Files (for Motorola phones), and OPS and PIT files (for Samsung phones) are files direct from the manufacturer that change the software on your phone. RUU and SBF files are how the manufacturers deliver your over-the-air upgrades, and modders often post leaked RUU and SBF files for flashing when the updates haven’t been released yet. They’re also handy when downgrading your phone, if a rooting method isn’t available for the newest software version yet. You can flash RUUs right from your HTC phone, but Motorola users will need a Windows program called RSD Lite to flash SBF files, and Samsung users will need a tool called Odin to flash OPS and PIT files (note there is a specific version of Odin for each device).
+    \n<b>List Of References that you have to refer:</b>
+        \n*The XDA Developers forums are the number one place to look for information on your phone. This is where all the best hackers and tweakers gather to discuss phones, share links and guides, create rooting tools, and more. Head to the forums, find your device, and poke around the different subforums for your phone. You should find a number of threads that will direct you to information on how to root your phone, what ROMs and kernels are available, and more. And, when in doubt, ask the other users!
+\n\n*The Phandroid forums (aka Android Forums) aren’t quite as popular as XDA, but they have always done a pretty good job of organizing information on rooting. This is a good place to start. Head to the forum for your device and look for the “All Things Root” subforum.
+\n\n*RootzWiki may not be as popular as it once was, but there’s still good information to be had on these forums, especially pertaining to new ROMs, kernels, and other things on the development side.
+\n\n*The CyanogenMod Wiki: CyanogenMod, one of the most popular ROMs out there, has a fantastic wiki with a ton of information on different devices. Even if you don’t plan on flashing CyanogenMod (or any ROM, for that matter), you can often find information on how to root your phone within their device-specific instructions on installing CyanogenMod, so it’s worth checking out.</string>
+  <string name="flash3">\n<b>BusyBox:</b>
+\nAndroid, being based on Linux/Unix, offers a limited amount of UNIX commands (which most users won’t need anyways). BusyBox will implement more commands that are necessary for some root apps to work properly.
+
+\n<b>Dalvik:</b>
+\nDalvik is a virtual machine that processes Android app code. Consequently, it is responsible for translating app code into actions on your Android device.
+
+\n<b>Fastboot:</b>
+\nFastboot is a diagnostic- and engineering tool which offers you several features such as launching in recovery mode or flashing image files.
+
+
+\n<b>NAND partition:</b>
+\nNAND stands for “Negated AND” or “NOT AND” and describes the hard drive partition that stores all system relevant information like the bootloader, recovery mode or the kernel.
+
+
+\n<b>Xposed Framework:</b>
+\nXposed Framework is an app that can be installed on a rooted Android device which offers custom ROM like features on stock Android. It has been updated and is now fully compatible to Android 5.0 and Android 6.0.</string>
+
+    <string name="custom">
+\nA custom ROM is a modified version of the Android operating system. Tweaks, additional features, different themes or an enhanced performance are usually included. Custom ROMs also offer the possibility to use a newer, unreleased, version of Android on your phone that might usually not be available for your device because of restrictions from manufacturer or providers.
+\n*Before Flashing custom rom you have to need custom recovery.
+        \n*I wil also list some custom recoveries.
+\n<b>Custom Recovery Mode:</b>
+\nThe standard Android recovery mode is very limited and does not offer many features. That’s where replacement recoveries like Team Win Recovery Project (TWRP) and ClockworkMod Recovery (CWRM) come in place. They offer the possibility to flash custom ROMs which is not possible with the stock recovery mode. Other features include a file browser for update.zips, adb shell and NANDroid backups. Without a custom recovery you won’t be able to flash a custom ROM.
+
+\n*It does not really matter which replacement recovery you install, just go with the one that suits you most. In some rare cases the root script or custom ROM installation only works with either TWRP or CWM. Nowadays, TWRP is the king of custom recoveries and would be my suggestion for you to use.
+
+\n<i>TWRP</i> – <u>Team Win Recovery Project:</u>
+\nTeam Win Recovery Project‘s custom recovery offers an easy and touch driven user interface. It includes all typical recovery features needed to install custom ROMs, kernels, other tweaks and many more. You are also able to backup and restore your device using TWRP.
+
+
+
+\n<i>CWM</i> – <u>Clockworkmod Recovery:</u>
+\nClockworkMod Recovery used to be one of the most popular custom recovery modes. However, in the last 2 years TWRP took over the throne and became the most popular recovery. It also includes all advanced recovery features like installing custom ROMs and other files, as well as a backup and restore function. You can control the CWM UI via touch or key-input.
+
+
+
+
+
+\n<b>Understanding Custom ROM Versions:</b>
+\nAs Custom ROMs are constantly improved, they usually come in four different categories: Nightly, Milestone, Release Candidate and Stable. This is what you can expect in every stage:
+
+\n<b>Nightly:</b>
+\nNightly versions are usually generated every 24 hours and can be highly experimental and unstable. Especially early versions of a new custom ROM can have many bugs and missing features. If you want to have the latest features while risking instability – go for nightlies!
+
+\n<b>Milestone Snapshot:</b>
+\nMilestone Snapshots are basically nightly versions that have reached a certain milestone. They can be regarded as being quite stable, but may include certain bugs and issues. Since they are only created every few weeks (or months), they won’t have the latest features that might be included in the nightly versions. If you are looking for the latest features while having a rather stable system, check out milestone snapshots.
+
+\n<b>Release Candidate:</b>
+\nRelease candidates, as the name already implies, are one of the last builds before the stable version of a custom ROM is released. RCs are mostly stable but might have a few minor issues. If you’re looking for something stable and ready for daily use, I would recommend to go with release candidates!
+
+\n<b>Stable:</b>
+\nStable versions are (obviously) the most stable versions around, with all or nearly all problems fixed. Some stable ROMs may still include some smaller issues or certain things not working. Stable versions are definitely the safest way to go, but it might take months before a new stable with new features or fixes is released.
+
+\n<b>Official, Unofficial and Combined Releases:</b>
+\nIt is also important to say that custom ROMs are often available as official and unofficial releases. Later use the source code of the official release (if publicly available) and adapt it to devices not supported by the main developers. Unfortunately, this often leads to a delay. In addition to that, many developers combine features of different custom ROMs.
+
+\n\n*Custom Roms offer you a variety of new features, tweaks and visual enhancements. The best source to find a working one for your device is the XDA-Developers forum. Many custom ROMs are based on the two big releases: CyanogenMod and Paranoid Android. The easiest way to find the best custom ROM for you is to compare their features or simply test them for a few days. To make your start easier, I’ve written a few words about the major custom ROMs below.
+
+\n*I’m only able to give you a limited overview in here. If you really want to dive in I would recommend checking out your device specific sub forums on XDA developers. With Android modding becoming more and more popular, you’re often able to find many different custom ROMS for your device, especially if it’s one of the more popular phones or tablet.</string>
+    <string name="custom2">\n<b>CyanogenMod:(CustomRom)</b>
+    \nCyanogenMod looks very similar to stock Android, but offers several enhancements and tweaks. Besides increased system performance and reliability, it includes many interface enhancements and integrated features. CM is one of the most popular custom ROM solutions as it brings a stock Android experience to many devices that come with a heavily-skinned Android version such as LG or Samsung Galaxy devices.
+
+\n*CyanogenMod Features:
+
+\n->OpenVPN integration
+\n->Lockscreen gestures
+\n->Expanded quick settings
+\n->DSP equalizer
+\n->Complete Theme engine including own theme store
+\n->Wi-Fi, bluetooth, and USB tethering
+\n->CPU over- and underclocking
+\n->Based on Stock Android
+\n->Latest CyanogenMod Version
+
+\n*CyanogenMod is usually up-to-date and uses the latest Android version. The latest version available is:
+
+\n<u>CM 13.0</u> – based on Android 6.0 Marshmallow:
+    \nA quite unique feature of CyanogenMod is it’s installer which makes installing the custom ROM quite easy. Besides flashing the ROM it will also root your Android device and will guide you through the whole process. Unfortunately, the installer is currently only available for Windows.
+
+\n*CyanogenMod is available for the majority of popular Android devices. You can find a list of supported devices on the CyanogenMod website.
+
+\n<b>BlissRom:(CustomRom)</b>
+
+
+\nBlissRom is a new kid on the block. They basically take CyanogenMod as a source and add some magic to its. While updates are not as frequent as with CyanogenMod, the team covers the most important stuff and usually releases up-to-date stuff.
+
+\nBlissRom Features:
+
+    \n->Based on CyanogenMod (= all of its features)
+    \n->Audio Improvements
+    \n->Endless list of visual improvements
+    \n->Global gestures
+    \n->Modified power menu
+    \n->Latest BlissRom Version
+
+\*The latest BlissRom version is based on CM 12.1 and is called BlissPop and still running Android 5.1.1.
+</string>
+
+
+</resources>

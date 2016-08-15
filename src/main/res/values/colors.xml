@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#FF5722</color>
+    <color name="color_primary_dark">#E64A19</color>
+    <color name="accent_color">#ff5722</color>
+    <color name="whats_color">#00897b</color>
+    <color name="whats_color_dark">#00897b</color>
+    <color name="whats_color2">#aeea00</color>
+    <color name="whats_color_dark2">#aeea00</color>
+    <color name="whats_color3">#00c853</color>
+    <color name="whats_color_dark3">#00c853</color>
+    <color name="whats_color4">#ff1744</color>
+    <color name="whats_color_dark4">#ff1744</color>
+    <color name="whats_color5">#64dd17</color>
+    <color name="whats_color_dark5">#64dd17</color>
+    <color name="whats_color6">#546e7a</color>
+    <color name="whats_color_dark6">#546e7a</color>
+
+</resources>
+
