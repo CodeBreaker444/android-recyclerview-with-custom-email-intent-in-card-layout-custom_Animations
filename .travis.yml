@@ -10,4 +10,4 @@ android:
     - extra-android-m2repository
     - extra-google-m2repository
 
-script: chmod +x ./gradlew build assembleDebug 
+script: chmod +x ./gradlew build 
