@@ -1,0 +1,4 @@
+language: java
+rvm:
+ - 8
+ - xml
