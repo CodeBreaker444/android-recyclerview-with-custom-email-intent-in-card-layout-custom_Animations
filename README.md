@@ -11,7 +11,7 @@ Checkout the Android Tabbed layout with recycler view for better optimization.Ad
 ## Requirements:
 - Android Studio(Don't use eclipse).
 
-`Note: YOu can directly open the project in Android Studio`
+`Note: You can directly open the project in Android Studio`
 ## Instructions to Open in Android Studio:
 `AndroidStudio > File >Open project > Now Select the android-recyclerview.....`
 
@@ -20,8 +20,8 @@ Checkout the Android Tabbed layout with recycler view for better optimization.Ad
 
 ## Personal INFO:
 
-### Donations Help Me to Keep The Support and Development: [Click Here](https://paypal.me/zer0error).
-### FollowMe: [Click Here](https://facebook.com/zer0error/)
-### PlayStore Link-[WhatsRooting](https://play.google.com/store/apps/details?id=codebreaker.gsl.whatsrooting).
-### Website: [StarTech](http://cbstartech.com).
+Donations Help Me to Keep The Support and Development: [Click Here](https://paypal.me/zer0error).
+FollowMe: [Click Here](https://facebook.com/zer0error/)
+PlayStore Link-[WhatsRooting](https://play.google.com/store/apps/details?id=codebreaker.gsl.whatsrooting).
+Website: [StarTech](http://cbstartech.com).
 
