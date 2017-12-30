@@ -2,7 +2,7 @@
 
 # Android Card_Layout With Recyclerview and Custom email intent
 Checkout the Android Tabbed layout with recycler view for better optimization.Admob Code is Included as a Bonus and Resources has also been Included and src is directly pulled from the Android Studio Project with out any Changes.
-## Stuff that Is USED
+## Stuff that Is USED:
 - Card Layout with RecyclerView.
 - Animations(For fun).
 - Custom email Intent(Feel free to change).
