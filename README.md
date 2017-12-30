@@ -10,6 +10,7 @@ Checkout the Android Tabbed layout with recycler view for better optimization.Ad
 
 ## Requirements:
 - Android Studio(Don't use eclipse).
+
 `Note: YOu can directly open the project in Android Studio`
 ## Instructions to Open in Android Studio:
 `AndroidStudio > File >Open project > Now Select the android-recyclerview.....`
@@ -18,9 +19,9 @@ Checkout the Android Tabbed layout with recycler view for better optimization.Ad
 ![](https://lh3.googleusercontent.com/43z7cZbxtc9T_dQLPoc_fQxS3u-RDOVYawdMOsK7Oz_QLR4aTR0E3mCzdNb-SDqEmTs=h310-rw) ![](https://lh3.googleusercontent.com/y1jBQMqS_YcHduK23_KtQQ29_-MwORedR-ReY46W3BZwN9KIn9h0_77doUlNZPFcmm_X=h310-rw) ![](https://lh3.googleusercontent.com/Z-CigdZfIUUpUcsO1NSH3tOBl0oXa12NxbTpSEpcFR5WaPhnlAIec4yDaD6yRoV9FIo=h310-rw)
 
 ## Personal INFO:
-`
-Donations Help Me to Keep The Support and Development: [Click Here](https://paypal.me/zer0error).
-FollowMe: [Click Here](https://facebook.com/zer0error/)
-PlayStore Link-[WhatsRooting](https://play.google.com/store/apps/details?id=codebreaker.gsl.whatsrooting).
-Website: [StarTech](http://cbstartech.com).
-`
+
+### Donations Help Me to Keep The Support and Development: [Click Here](https://paypal.me/zer0error).
+### FollowMe: [Click Here](https://facebook.com/zer0error/)
+### PlayStore Link-[WhatsRooting](https://play.google.com/store/apps/details?id=codebreaker.gsl.whatsrooting).
+### Website: [StarTech](http://cbstartech.com).
+
