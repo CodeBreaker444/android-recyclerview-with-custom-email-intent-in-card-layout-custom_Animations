@@ -26,5 +26,5 @@ FollowMe: [Click Here](https://facebook.com/zer0error/).
 
 PlayStore Link-[WhatsRooting](https://play.google.com/store/apps/details?id=codebreaker.gsl.whatsrooting).
 
-Website: [StarTech](http://cbstartech.com).
+Website: [Personal](https://govardhanchitrada.me).
 
